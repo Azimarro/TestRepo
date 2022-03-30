@@ -3,6 +3,9 @@ package com.example.eclipse_bran;
 public class SixthClass {
 		private String name;
 		private int age;
+		
+		private String secondName;
+		
 		public String getName() {
 			return name;
 		}
