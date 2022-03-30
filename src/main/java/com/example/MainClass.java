@@ -9,5 +9,7 @@ public class MainClass {
         System.out.println(firstClass);
 
         System.out.println("Hello World");
+
+        System.out.println("Hello new world!!");
     }
 }
