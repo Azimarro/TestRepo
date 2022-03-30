@@ -7,5 +7,7 @@ public class MainClass {
 
         FirstClass firstClass = new FirstClass("Azim",35);
         System.out.println(firstClass);
+
+        System.out.println("Hello World");
     }
 }
